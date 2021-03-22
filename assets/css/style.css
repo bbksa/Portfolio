@@ -504,11 +504,11 @@ input:checked + .slider:before {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  /* color: #222222; */
+  color: #292727;
 }
 
 #hero h2 {
-  /* color: #6f6f6f; */
+  color: #6f6f6f;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
